@@ -1,0 +1,32 @@
+{
+    "en": {
+        "projects": [{
+                "title": "Amazon Clone ",
+                "description": "",
+                "images": ["image1.jpg", "image2.jpg"],
+                "links": ["link1.com", "link2.com"]
+            },
+            {
+                "title": "Project 2",
+                "description": "Description of project 2",
+                "images": ["image3.jpg", "image4.jpg"],
+                "links": ["link3.com", "link4.com"]
+            }
+        ]
+    },
+    "es": {
+        "projects": [{
+                "título": "Proyecto 1",
+                "descripción": "Descripción del proyecto 1",
+                "imágenes": ["imagen1.jpg", "imagen2.jpg"],
+                "enlaces": ["enlace1.com", "enlace2.com"]
+            },
+            {
+                "título": "Proyecto 2",
+                "descripción": "Descripción del proyecto 2",
+                "imágenes": ["imagen3.jpg", "imagen4.jpg"],
+                "enlaces": ["enlace3.com", "enlace4.com"]
+            }
+        ]
+    }
+}
